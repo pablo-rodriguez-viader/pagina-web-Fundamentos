@@ -111,7 +111,7 @@ button:hover {
 
 /* ====== FONDOS ESPECÍFICOS ====== */
 .body-net {
-    background-image: url(../img/Compañeros.png);
+    background-image: url("../img/Compañeros.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -119,7 +119,7 @@ button:hover {
 }
 
 .body-contact {
-    background-image: url(../img/Agora_ufv.jpg);
+    background-image: url("../img/Agora_ufv.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -138,7 +138,7 @@ footer {
     color: black;
     padding: 200px;
     text-align: center;
-    background-image: url('../img/atleti_escudo.jpg');
+    background-image: url("../img/atleti_escudo.jpg");
     background-repeat: no-repeat;
     background-position: center;
 }
