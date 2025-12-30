@@ -16,6 +16,14 @@ padding: 30px;
 border-radius: 8px;
 
 }
+#section1 {
+background-color: white;
+margin: 20px;
+padding: 30px;
+border-radius: 8px;
+background-image: url(../img/hobbies.avif);
+background-position: center;
+}
 
 h2 {
 color: gray;
